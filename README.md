@@ -14,7 +14,7 @@ positive integer represented by the received string.
 
 ## Some Examples using PostMan
 
-Exammple 1
+Example 1
 ![](images/example1.PNG)
 
 Example 2
