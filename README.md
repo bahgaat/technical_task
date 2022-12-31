@@ -13,8 +13,12 @@ positive integer represented by the received string.
 * test/service: which tests the logic of the program.
 
 ## Some Examples using PostMan
+
+Exammple 1
 ![](images/example1.PNG)
 
+Example 2
 ![](images/example2.PNG)
 
+Example 3
 ![](images/example3.PNG)
