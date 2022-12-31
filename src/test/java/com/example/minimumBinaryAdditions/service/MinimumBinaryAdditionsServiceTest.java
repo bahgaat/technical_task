@@ -108,7 +108,8 @@ public class MinimumBinaryAdditionsServiceTest {
         Assertions.assertEquals(actual, expected);
 
         // when
-        actual = minimumBinaryAdditionsService.computeMinimumAdditionsThatSumToS("80000000000000000000000000000000000000007654234567654345676543456543234000000000345434533000000000");
+        actual = minimumBinaryAdditionsService.computeMinimumAdditionsThatSumToS("80000000000000000000000000000000000000" +
+                "007654234567654345676543456543234000000000345434533000000000");
         expected = 8;
         // then
         Assertions.assertEquals(actual, expected);
