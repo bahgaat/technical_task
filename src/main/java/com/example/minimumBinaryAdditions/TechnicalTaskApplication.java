@@ -1,4 +1,4 @@
-package com.example.technical_task;
+package com.example.minimumBinaryAdditions;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

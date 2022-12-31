@@ -1,4 +1,4 @@
-package com.example.technical_task;
+package com.example.minimumBinaryAdditions;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

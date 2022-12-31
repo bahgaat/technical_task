@@ -1,12 +1,12 @@
-package com.example.technical_task.service.impl;
+package com.example.minimumBinaryAdditions.service.impl;
 
-import com.example.technical_task.service.MinBinarySumService;
+import com.example.minimumBinaryAdditions.service.MinimumBinaryAdditionsService;
 import org.springframework.stereotype.Service;
 
 @Service
-public class MinBinarySumServiceImpl implements MinBinarySumService {
+public class MinimumBinaryAdditionsServiceImpl implements MinimumBinaryAdditionsService {
 
-    public int computeMinBinaryDigitsSumToS(String s) {
+    public int computeMinimumAdditionsThatSumToS(String s) {
         int minSum = 1;
         for (int i = 0; i < s.length(); i++) {
             int intHolder = Character.getNumericValue(s.charAt(i));
