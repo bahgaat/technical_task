@@ -1,6 +1,6 @@
 # Technical_task
 
-a JAVA Spring Boot program that receives a string that represents a positive integerthrough a
+a JAVA Spring Boot program that receives a string that represents a positive integer through a
 post API, and returns in the response an integer that represents the minimum number of positive
 integer numbers that each of their digits are either 1 or 0, needed to so that they sum up to the
 positive integer represented by the received string.
