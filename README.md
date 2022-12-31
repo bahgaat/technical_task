@@ -12,3 +12,9 @@ positive integer represented by the received string.
 * Service: Service Class which have all the logic.
 * test/service: which tests the logic of the program.
 
+## Some Examples using PostMan
+![](images/example1.PNG)
+
+![](images/example2.PNG)
+
+![](images/example3.PNG)
